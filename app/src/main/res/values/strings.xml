@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_india">India</string>
+    <string name="title_activity_world">world</string>
+</resources>
